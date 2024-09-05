@@ -24,7 +24,7 @@ sections:
 
 
     actions:
-      - label: See open positions
+      - label: ''
         url: /
         icon: arrowRight
         iconPosition: right
