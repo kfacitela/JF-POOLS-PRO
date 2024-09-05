@@ -63,7 +63,7 @@ sections:
       - type: PricingPlan
         title: Enterprise
         price: ''
-        details: per month
+        details: ''
         description: ''
         features:
           - Feature two
