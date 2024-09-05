@@ -72,7 +72,6 @@ sections:
           - Feature two
           - Feature three
           - Feature four
-          - Feature five
         image:
           type: ImageBlock
           altText: Pricing plan 3
