@@ -281,7 +281,7 @@ sections:
     text: ''
     actions:
       - label: contact us
-        url: /contacts
+        url: /EMAIl
         icon: arrowRight
         iconPosition: right
         style: secondary
