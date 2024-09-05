@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Contacts
         price: ''
-        details: No credit card required
+        details: Johnfacitela@gmail.com
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
