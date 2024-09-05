@@ -34,6 +34,15 @@ sections:
       - type: Link
         label: ''
         altText: ''
+        url: /Discovery
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: ''
+        altText: ''
         url: /Discovey
         showIcon: true
         icon: arrowRight
