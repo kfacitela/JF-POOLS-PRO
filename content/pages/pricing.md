@@ -66,7 +66,7 @@ sections:
         details: ''
         description: ''
         features:
-          - Feature two
+          - ''
         image:
           type: ImageBlock
           altText: Pricing plan 3
