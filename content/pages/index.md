@@ -211,7 +211,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/1129811.webp
         altText: Sanity logo
         type: ImageBlock
       - url: /images/gauteng-infrastructure-development_orig.png
