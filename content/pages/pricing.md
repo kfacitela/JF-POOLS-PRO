@@ -44,7 +44,7 @@ sections:
         features:
           - Rock art
           - Back yard designs
-          - Feature three
+          - Pool extentions
           - Feature four
         image:
           type: ImageBlock
