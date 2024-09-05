@@ -45,7 +45,7 @@ sections:
           - Rock art
           - Back yard designs
           - Pool extentions
-          - Feature four
+          - Resort pools
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
