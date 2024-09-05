@@ -62,7 +62,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Enterprise
-        price: Custom
+        price: ''
         details: per month
         description: ''
         features:
