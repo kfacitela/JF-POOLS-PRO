@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Sign up",
-            "altText": "Sign up",
+            "altText": "Get Started",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
