@@ -118,10 +118,7 @@ sections:
         type: FeaturedItem
       - title: 'Maintaining '
         subtitle: "\_ We’ll handle it, so you can jump right in!"
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/icon3.svg
           altText: Featured icon three
