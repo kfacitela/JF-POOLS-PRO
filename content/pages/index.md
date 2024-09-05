@@ -339,7 +339,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/PAP_86_Super_Blue.jpeg
       altText: Dope design preview
       type: ImageBlock
     badge:
