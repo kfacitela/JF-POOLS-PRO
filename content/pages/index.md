@@ -267,7 +267,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: ''
+      label: Why Choose JF Pools?
       color: text-primary
       styles:
         self:
