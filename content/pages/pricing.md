@@ -16,9 +16,15 @@ sections:
         title: Contacts
         price: ''
         details: Johnfacitela@gmail.com
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |+
+          ## **Preferably** 
+
+          give us a call at
+
+          083 596 0009 
+
+
+
         features: []
         actions:
           - type: Button
