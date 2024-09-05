@@ -59,7 +59,15 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [],
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "Email icon",
+            "url": "/johnfacitela@gmail.com",
+            "icon": "mail",
+            "elementId": ""
+        }
+    ],
     "legalLinks": [
         {
             "label": "Terms",
