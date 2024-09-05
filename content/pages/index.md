@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key BenefitWhat We Do
+      text: What We Do
       color: text-dark
       styles:
         self:
