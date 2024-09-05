@@ -234,7 +234,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: we care
+      text: We Care
       color: text-dark
       styles:
         self:
