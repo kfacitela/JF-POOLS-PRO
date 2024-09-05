@@ -196,8 +196,7 @@ sections:
         textAlign: center
   - subtitle: Trusted companies that work with us
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
