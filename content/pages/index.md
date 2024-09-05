@@ -283,7 +283,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: conact us
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
