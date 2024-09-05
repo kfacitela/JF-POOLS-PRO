@@ -201,11 +201,11 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/property24-logo-3F76482A1C-seeklogo.com.png
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/z7q7ctbj.png
         altText: Telus logo
+        type: ImageBlock
+      - url: /images/property24-logo-3F76482A1C-seeklogo.com.png
+        altText: Vise logo
         type: ImageBlock
       - url: /images/512x512bb.jpg
         altText: Sanity logo
