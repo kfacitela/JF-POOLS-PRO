@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badg
+      label: Welcome to JF Pools
       color: text-primary
       type: Badge
     elementId: ''
