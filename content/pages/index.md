@@ -296,7 +296,7 @@ sections:
         style: secondary
         type: Button
       - label: See contacts
-        url: /
+        url: '/cocontact details '
         showIcon: true
         icon: arrowRight
         iconPosition: right
