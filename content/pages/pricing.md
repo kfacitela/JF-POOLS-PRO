@@ -21,7 +21,6 @@ sections:
           accusantium doloremque.
         features:
           - ''
-          - Feature two
           - Feature three
           - Feature four
         actions:
