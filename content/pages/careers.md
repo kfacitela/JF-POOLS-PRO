@@ -10,12 +10,19 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      #### **Meet the Team**
+
+
+      Behind every great project is a team of passionate individuals. At **JF
+      Pools**, our team is made up of expert designers, builders, and
+      technicians who share the same commitment to quality and customer
+      satisfaction.
+
+
+
+
+
     actions:
       - label: See open positions
         url: /
