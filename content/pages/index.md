@@ -31,6 +31,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Link
+        label: ''
+        altText: ''
+        url: /Discovey
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/Blue Black Minimal Simple Corporate Animated Logo.jpg
       altText: Unblock your team boost your time to production preview
