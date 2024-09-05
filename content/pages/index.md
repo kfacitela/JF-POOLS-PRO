@@ -279,13 +279,7 @@ sections:
       type: TitleBlock
     subtitle: the sooner the better
     text: ''
-    actions:
-      - label: contact us
-        url: /Email
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       url: >-
         /images/18-Dazzling-Modern-Swimming-Pool-Designs-The-Ultimate-Backyard-Refreshment-10.jpg
