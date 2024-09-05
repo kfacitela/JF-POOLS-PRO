@@ -289,7 +289,7 @@ sections:
     subtitle: the sooner the better
     text: ''
     actions:
-      - label: Get started
+      - label: contact us
         url: /
         icon: arrowRight
         iconPosition: right
