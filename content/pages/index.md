@@ -117,7 +117,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 'Maintaining '
-        subtitle: "\_ We’ll handle it, so you can jump right in!"
+        subtitle: 'We’ll handle it, so you can jump right in!'
         text: ''
         image:
           url: /images/icon3.svg
