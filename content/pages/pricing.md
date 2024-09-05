@@ -16,15 +16,14 @@ sections:
         title: Contacts
         price: ''
         details: Johnfacitela@gmail.com
-        description: |+
-          ## **Preferably** 
+        description: |
+          ## **Preferably**
 
           give us a call at
 
-          083 596 0009 
+          083 596 0009
 
-
-
+          Available on WhatsApp 
         features: []
         actions: []
         colors: bg-neutral-fg-dark
