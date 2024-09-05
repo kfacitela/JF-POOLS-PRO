@@ -43,7 +43,7 @@ sections:
         description: ''
         features:
           - Rock art
-          - Feature two
+          - Back yard designs
           - Feature three
           - Feature four
         image:
