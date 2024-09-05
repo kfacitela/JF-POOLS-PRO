@@ -330,7 +330,7 @@ sections:
         style: secondary
         type: Button
       - label: ''
-        url: /
+        url: /contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
