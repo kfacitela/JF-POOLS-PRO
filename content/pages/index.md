@@ -411,7 +411,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: VIA Email
+      text: ' Email'
       color: text-dark
       type: TitleBlock
     subtitle: Or
