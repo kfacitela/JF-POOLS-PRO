@@ -29,7 +29,7 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "Privacy=",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
