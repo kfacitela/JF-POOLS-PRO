@@ -210,8 +210,7 @@ sections:
       - url: /images/512x512bb.jpg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
       - url: /images/gauteng-infrastructure-development_orig.png
         altText: Rangle logo
