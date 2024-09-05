@@ -62,7 +62,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Building
         subtitle: Numbers Done
         text: |2+
            We’ll help you design the perfect one for splashing, swimming, and relaxing
