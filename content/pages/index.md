@@ -1,5 +1,5 @@
 ---
-title: Home
+title: JF POOLS
 slug: /
 sections:
   - type: GenericSection
