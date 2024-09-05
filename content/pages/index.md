@@ -287,9 +287,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: the sooner the better
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: ''
     actions:
       - label: Get started
         url: /
