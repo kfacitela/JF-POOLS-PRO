@@ -55,7 +55,7 @@ sections:
       opacity: 100
       url: /images/abstract-background.svg
   - title:
-      text: M
+      text: hjkfkjfkf
       color: text-dark
       styles:
         self:
