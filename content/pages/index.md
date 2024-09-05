@@ -67,7 +67,16 @@ sections:
         text: |2+
            We’ll help you design the perfect one for splashing, swimming, and relaxing
 
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /build
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
