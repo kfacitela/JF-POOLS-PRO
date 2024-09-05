@@ -290,7 +290,7 @@ sections:
     text: ''
     actions:
       - label: contact us
-        url: /
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: secondary
