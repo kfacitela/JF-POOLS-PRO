@@ -107,7 +107,7 @@ sections:
 
 
         image:
-          url: /images/icon2.svg
+          url: /images/service.jpeg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
