@@ -116,7 +116,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: 'Maintaining '
         subtitle: "Maintaining:\_ We’ll handle it, so you can jump right in!"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
