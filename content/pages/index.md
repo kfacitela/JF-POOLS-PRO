@@ -563,7 +563,7 @@ sections:
     items:
       - title: Feature Item One
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           url: /images/house.jpeg
