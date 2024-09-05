@@ -139,7 +139,7 @@ sections:
         text: |
           so you can jump right in!
         image:
-          url: /images/construction.jpeg
+          url: /images/cleaning.jpeg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
