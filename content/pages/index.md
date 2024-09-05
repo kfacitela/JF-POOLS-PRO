@@ -240,7 +240,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: And also
     text: >+
 
 
