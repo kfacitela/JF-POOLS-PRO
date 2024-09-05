@@ -118,7 +118,8 @@ sections:
         type: FeaturedItem
       - title: 'Maintaining '
         subtitle: 'We’ll handle it, '
-        text: ''
+        text: |
+          so you can jump right in!
         image:
           url: /images/icon3.svg
           altText: Featured icon three
