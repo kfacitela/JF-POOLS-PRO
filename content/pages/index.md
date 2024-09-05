@@ -286,13 +286,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See contacts
-        url: '/contact details '
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: >-
         /images/18-Dazzling-Modern-Swimming-Pool-Designs-The-Ultimate-Backyard-Refreshment-10.jpg
