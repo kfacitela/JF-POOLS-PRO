@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Building
-        subtitle: Numbers Done
+        subtitle: Want a new pool
         text: |2+
            We’ll help you design the perfect one for splashing, swimming, and relaxing
 
