@@ -22,15 +22,6 @@ sections:
         style: primary
         elementId: ''
         type: Link
-      - type: Link
-        label: ''
-        altText: ''
-        url: /careers
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - label: Learn more
         altText: ''
         url: /
