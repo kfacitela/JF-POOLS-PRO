@@ -585,7 +585,7 @@ sections:
         type: FeaturedItem
       - title: Feature Item Two
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           url: /images/OIP.jpeg
