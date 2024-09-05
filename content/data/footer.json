@@ -83,13 +83,6 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
-        },
-        {
-            "type": "Social",
-            "altText": "Email icon",
-            "url": "/johnFacitela@gmail.com",
-            "icon": "mail",
-            "elementId": ""
         }
     ],
     "legalLinks": [
