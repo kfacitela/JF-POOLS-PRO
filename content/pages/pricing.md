@@ -42,7 +42,7 @@ sections:
         details: ''
         description: ''
         features:
-          - Feature one
+          - Rock art
           - Feature two
           - Feature three
           - Feature four
