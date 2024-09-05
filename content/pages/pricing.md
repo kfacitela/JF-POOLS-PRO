@@ -60,25 +60,6 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-      - type: PricingPlan
-        title: ''
-        price: ''
-        details: ''
-        description: ''
-        features: []
-        image:
-          type: ImageBlock
-          altText: Pricing plan 3
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
