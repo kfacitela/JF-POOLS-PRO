@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/Blue Black Minimal Simple Corporate Animated Logo.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
