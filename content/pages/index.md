@@ -208,11 +208,11 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
       - url: /images/1129811.webp
         altText: Sanity logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
         type: ImageBlock
       - url: /images/gauteng-infrastructure-development_orig.png
         altText: Rangle logo
