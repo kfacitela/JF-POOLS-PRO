@@ -283,7 +283,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: conact us
+      text: contact us
       color: text-dark
       type: TitleBlock
     subtitle: the sooner the better
