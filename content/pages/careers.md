@@ -60,7 +60,7 @@ sections:
       - content/pages/blog/track-the-right-metrics-for-your-business.md
       - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/what-is-a-design-system.md
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: false
     showDate: false
     showAuthor: false
