@@ -106,7 +106,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /repair
+            url: /plans
             showIcon: false
             icon: arrowRight
             iconPosition: right
