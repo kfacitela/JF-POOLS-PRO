@@ -339,13 +339,6 @@ sections:
           - pr-7
     type: DividerSection
   - type: PricingSection
-    title:
-      type: TitleBlock
-      text: Flexible Pricing
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: ''
     plans:
       - type: PricingPlan
