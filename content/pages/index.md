@@ -62,7 +62,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /build
+            url: /plans
             showIcon: false
             icon: arrowRight
             iconPosition: right
