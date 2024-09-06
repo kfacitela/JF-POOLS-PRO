@@ -308,7 +308,7 @@ sections:
         style: secondary
         type: Button
       - label: ''
-        url: /contact
+        url: /Configure
         showIcon: true
         icon: arrowRight
         iconPosition: right
