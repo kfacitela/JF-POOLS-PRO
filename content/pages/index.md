@@ -62,7 +62,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /Configurate
+            url: /Configure
             showIcon: false
             icon: arrowRight
             iconPosition: right
