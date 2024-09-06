@@ -28,7 +28,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Our mission",
                     "altText": "",
                     "url": "/Motto",
                     "showIcon": false,
