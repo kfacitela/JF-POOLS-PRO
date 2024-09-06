@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Learn more
         altText: ''
-        url: /careers
+        url: /Discovery
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -50,7 +50,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Building
@@ -308,7 +308,7 @@ sections:
         style: secondary
         type: Button
       - label: ''
-        url: /contact
+        url: /Configure
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -412,49 +412,6 @@ sections:
     text: |
       Give us a call at 
       083 596 0009
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: Mail
     badge:
       label: Contact Us
       color: text-primary
