@@ -10,7 +10,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
+    text: >+
       #### **Meet the Team**
 
 
@@ -66,6 +66,17 @@ sections:
       we incorporate eco-friendly solutions in our designs, such as
       energy-efficient filtration systems and sustainable construction
       practices.
+
+          **Looking to the Future**
+
+          As we continue to grow, so does our vision. We are excited about the future of **JF Pools** and the many exciting projects to come. Whether we’re building a sleek modern pool in the heart of \[location], or crafting a cozy backyard retreat in \[another location], we’re always driven by the same goal: to provide top-notch service and create the pool of your dreams.
+
+          Thank you for considering **JF Pools**. We can’t wait to work with you and bring your vision to life
+
+
+
+
+
     actions: []
     colors: bg-neutral-fg-dark
     styles:
