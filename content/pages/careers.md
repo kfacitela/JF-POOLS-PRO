@@ -23,13 +23,7 @@ sections:
 
 
 
-    actions:
-      - label: ''
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
