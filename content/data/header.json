@@ -39,7 +39,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "",
+                    "label": "Configure",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
