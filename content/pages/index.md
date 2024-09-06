@@ -463,7 +463,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: 'Home '
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Home page
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
