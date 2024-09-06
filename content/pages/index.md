@@ -158,7 +158,7 @@ sections:
     actions:
       - label: Start
         altText: ''
-        url: /
+        url: /Configure
         showIcon: false
         icon: arrowRight
         iconPosition: right
