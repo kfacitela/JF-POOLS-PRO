@@ -14,12 +14,13 @@
     "primaryLinks": [
         {
             "label": "Discovery",
-            "altText": "Careers page",
+            "altText": "",
             "url": "/Discovery",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "style": "primary",
+            "type": "Link",
+            "showIcon": true
         },
         {
             "type": "SubNav",

@@ -1,8 +1,8 @@
 ---
-title: ''
-slug: /blog
+title: 'Go to Discovery '
+slug: Discovery
 numOfPostsPerPage: 0
-enableSearch: false
+enableSearch: true
 topSections: []
 styles:
   title:
