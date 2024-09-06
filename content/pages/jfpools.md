@@ -1,6 +1,6 @@
 ---
 title: JF POOLS
-slug: /
+slug: /JFPools
 sections:
   - type: GenericSection
     title:
