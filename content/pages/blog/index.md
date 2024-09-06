@@ -1,6 +1,6 @@
 ---
 title: 'Go to Discovery '
-slug: /blog
+slug: Discovery
 numOfPostsPerPage: 0
 enableSearch: true
 topSections: []
