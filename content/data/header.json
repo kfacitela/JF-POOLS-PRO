@@ -30,7 +30,7 @@
                     "type": "Link",
                     "label": "Dropdown item",
                     "altText": "",
-                    "url": "/",
+                    "url": "/Motto",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
