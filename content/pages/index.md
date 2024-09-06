@@ -338,15 +338,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: PricingSection
-    subtitle: ''
-    plans: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title:
       text: ''
       color: text-primary
