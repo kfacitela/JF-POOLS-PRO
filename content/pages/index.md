@@ -106,7 +106,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /plans
+            url: /Configure
             showIcon: false
             icon: arrowRight
             iconPosition: right
