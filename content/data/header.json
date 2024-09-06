@@ -41,7 +41,7 @@
                     "type": "Link",
                     "label": "Configure",
                     "altText": "",
-                    "url": "/",
+                    "url": "/Configure",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
