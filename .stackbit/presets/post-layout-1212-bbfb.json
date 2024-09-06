@@ -1,0 +1,82 @@
+{
+    "model": "PostLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "1212",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "j"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Motto",
+                "date": "2022-10-10",
+                "author": {
+                    "$$ref": "content/data/person1.json",
+                    "$$type": "Person"
+                },
+                "excerpt": "12",
+                "featuredImage": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/abstract-feature1.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Thumbnail",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "padding": [
+                                "pt-0",
+                                "pl-0",
+                                "pb-0",
+                                "pr-0"
+                            ]
+                        }
+                    }
+                },
+                "bottomSections": [
+                    {
+                        "$$type": "DividerSection",
+                        "title": "Divider",
+                        "elementId": "",
+                        "colors": "bg-light-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-3",
+                                    "pl-3",
+                                    "pb-3",
+                                    "pr-3"
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "slug": "motto",
+                "isFeatured": false,
+                "isDraft": false,
+                "seo": {
+                    "$$type": "Seo",
+                    "metaTitle": "lorem-ipsum",
+                    "metaDescription": "lorem-ipsum",
+                    "addTitleSuffix": false,
+                    "socialImage": null,
+                    "metaTags": []
+                },
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "flexDirection": "row"
+                    }
+                },
+                "markdown_content": "#### **Our Commitment to You**\n\nOur philosophy is simple: no matter the size or scope of the project, we approach every job with the same level of passion, dedication, and commitment to excellence.\n\nOver the years, we’ve expanded our services to offer not only pool construction but also pool maintenance and renovation. This allows us to stay connected with our clients long after their pools are complete, ensuring that their pools remain in pristine condition for years to come.\n\n#### **Why Choose JF Pools?**\n\nWe know that choosing the right pool company is a big decision, and we don’t take that lightly. When you work with us, you’re not just hiring a company – you’re becoming part of the **JF Pools** family.\n\nOur clients choose us because they know that we care as much about their project as they do. From the initial consultation, where we listen to your ideas, to the final moment when you take your first dive into your new pool, we’re there with you every step of the way.\n\n\n\n\n\n"
+            },
+            "thumbnail": "images/post-layout-1212-bbfb.png"
+        }
+    ]
+}
