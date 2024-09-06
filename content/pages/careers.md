@@ -10,7 +10,7 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       #### **Meet the Team**
 
 
@@ -66,9 +66,6 @@ sections:
       we incorporate eco-friendly solutions in our designs, such as
       energy-efficient filtration systems and sustainable construction
       practices.
-
-
-
     actions: []
     colors: bg-neutral-fg-dark
     styles:
