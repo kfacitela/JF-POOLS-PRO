@@ -111,37 +111,6 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/track-the-right-metrics-for-your-business.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/what-is-a-design-system.md
-      - content/pages/blog/this-is-a-blog-post-with-related-posts.md
-    showThumbnail: false
-    showExcerpt: false
-    showDate: false
-    showAuthor: false
-    actions: []
-    elementId: ''
-    variant: small-list
-    colors: bg-light-fg-dark
-    hoverEffect: shadow
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    subtitle: ''
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
       - >-
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
       - content/pages/blog/five-tips-for-starting-a-startup.md
