@@ -15,7 +15,7 @@
         {
             "label": "Discovery",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/Discovery",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
