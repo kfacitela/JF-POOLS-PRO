@@ -24,7 +24,7 @@
         {
             "type": "SubNav",
             "label": "Our Motto",
-            "altText": "Dropdown",
+            "altText": "",
             "links": [
                 {
                     "type": "Link",
