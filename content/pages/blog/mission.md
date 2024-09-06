@@ -28,7 +28,7 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
-slug: motto
+slug: Mission
 isFeatured: false
 isDraft: false
 seo:
