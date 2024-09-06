@@ -65,7 +65,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Plans
+slug: Configure
 seo:
   type: Seo
   metaTitle: Plans
