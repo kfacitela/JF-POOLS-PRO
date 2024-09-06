@@ -13,6 +13,15 @@
     },
     "primaryLinks": [
         {
+            "label": "Discovery",
+            "altText": "Careers page",
+            "url": "/Discovery",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "type": "SubNav",
             "label": "More",
             "altText": "",
@@ -41,15 +50,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "label": "Discovery",
-            "altText": "Careers page",
-            "url": "/Discovery",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [],
