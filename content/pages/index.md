@@ -302,7 +302,7 @@ sections:
     text: ''
     actions:
       - label: Get started
-        url: /
+        url: /Configure
         icon: arrowRight
         iconPosition: right
         style: secondary
