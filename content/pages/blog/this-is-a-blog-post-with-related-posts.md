@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ''
+title: Motto
 date: '2022-10-10'
 author: content/data/person1.json
 excerpt: >-
