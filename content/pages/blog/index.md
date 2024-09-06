@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Go to Discovery '
 slug: /blog
 numOfPostsPerPage: 0
 enableSearch: false
