@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Plans
+title: Configure
 sections:
   - type: PricingSection
     title:
