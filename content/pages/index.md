@@ -466,5 +466,8 @@ seo:
   metaDescription: Home page
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: true
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
