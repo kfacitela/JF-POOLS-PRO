@@ -28,7 +28,7 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
-slug: this-is-a-blog-post-with-related-posts
+slug: motto
 isFeatured: false
 isDraft: false
 seo:
