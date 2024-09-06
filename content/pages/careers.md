@@ -81,17 +81,18 @@ sections:
     subtitle: >-
       Our philosophy is simple: no matter the size or scope of the project, we
       approach every job with the same level of passion, dedication, and
-      commitment to excellence.Over the years, we’ve expanded our services to
-      offer not only pool construction but also pool maintenance and renovation.
-      This allows us to stay connected with our clients long after their pools
-      are complete, ensuring that their pools remain in pristine condition for
-      years to come.Why Choose JF Pools?We know that choosing the right pool
-      company is a big decision, and we don’t take that lightly. When you work
-      with us, you’re not just hiring a company – you’re becoming part of the JF
-      Pools family.Our clients choose us because they know that we care as much
-      about their project as they do. From the initial consultation, where we
-      listen to your ideas, to the final moment when you take your first dive
-      into your new pool, we’re there with you every step of the way.
+      commitment to excellence.       Over  the years, we’ve expanded our
+      services to offer not only pool construction but also pool maintenance and
+      renovation. This allows us to stay connected with our clients long after
+      their pools are complete, ensuring that their pools remain in pristine
+      condition for years to come.                            Why Choose JF
+      Pools?We know that choosing the right pool company is a big decision, and
+      we don’t take that lightly. When you work with us, you’re not just hiring
+      a company – you’re becoming part of the JF Pools family.Our clients choose
+      us because they know that we care as much about their project as they do.
+      From the initial consultation, where we listen to your ideas, to the final
+      moment when you take your first dive into your new pool, we’re there with
+      you every step of the way.             
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
