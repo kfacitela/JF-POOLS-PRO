@@ -2,7 +2,6 @@
 type: PostLayout
 title: Mission
 date: '2022-10-10'
-author: content/data/person1.json
 excerpt: '12'
 featuredImage:
   type: ImageBlock
