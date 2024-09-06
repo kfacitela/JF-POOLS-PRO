@@ -105,7 +105,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: 'Our commitment to you '
+      text: ''
       color: text-dark
       styles:
         self:
