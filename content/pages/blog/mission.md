@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Mission
+title: ''
 date: '2022-10-10'
 excerpt: '12'
 featuredImage:
