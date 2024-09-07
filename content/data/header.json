@@ -29,7 +29,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Our mission",
+                    "label": "Mission",
                     "altText": "",
                     "url": "/Mission",
                     "showIcon": false,
