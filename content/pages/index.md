@@ -426,5 +426,6 @@ seo:
   addTitleSuffix: false
   metaTags:
     - type: MetaTag
+      content: Tag
 type: PageLayout
 ---
