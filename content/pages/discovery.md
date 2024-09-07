@@ -135,7 +135,7 @@ sections:
     subtitle: johnfacitela@gmail.com
 seo:
   metaTitle: 'Careers - '
-  metaDescription: ''
+  metaDescription: page
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
