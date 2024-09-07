@@ -14,7 +14,7 @@ sections:
 
     actions:
       - label: Learn more
-        altText: ''
+        altText: Learn more
         url: /Discovery
         showIcon: false
         icon: arrowRight
