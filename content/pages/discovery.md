@@ -1,6 +1,6 @@
 ---
 title: Careers
-slug: Discovery
+slug: /Discovery
 sections:
   - title:
       text: A team that works closely together
