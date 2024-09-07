@@ -1,5 +1,5 @@
 ---
-title: Discovery
+title: Discover
 slug: /Discovery
 sections:
   - title:
