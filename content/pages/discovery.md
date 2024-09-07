@@ -105,7 +105,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: ''
+      text: Discover
       color: text-dark
       styles:
         self:
