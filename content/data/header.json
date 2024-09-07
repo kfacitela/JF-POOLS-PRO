@@ -31,7 +31,7 @@
                     "type": "Link",
                     "label": "Mission",
                     "altText": "",
-                    "url": "/Mission",
+                    "url": "/Commitment",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
