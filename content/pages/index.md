@@ -14,12 +14,12 @@ sections:
 
     actions:
       - label: Learn more
-        altText: ''
+        altText: Learn more
         url: /Discovery
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
     media:
@@ -423,8 +423,9 @@ seo:
   metaDescription: Home page
   socialImage: /images/main-hero.jpg
   type: Seo
-  addTitleSuffix: true
+  addTitleSuffix: false
   metaTags:
     - type: MetaTag
+      content: Tag
 type: PageLayout
 ---
