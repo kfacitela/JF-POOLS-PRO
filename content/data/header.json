@@ -18,7 +18,7 @@
             "url": "/Discovery",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Link",
             "showIcon": true
         },
@@ -29,9 +29,9 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Our mission",
+                    "label": "Mission",
                     "altText": "",
-                    "url": "/Mission",
+                    "url": "/Commitment",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
