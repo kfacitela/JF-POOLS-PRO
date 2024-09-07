@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ''
+title: Commitment
 date: '2012-06-10'
 excerpt: '12'
 featuredImage:
