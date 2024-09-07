@@ -27,7 +27,7 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
-slug: /Mission
+slug: /Commitment
 isFeatured: false
 isDraft: false
 seo:
