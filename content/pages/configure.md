@@ -72,5 +72,5 @@ seo:
   metaDescription: ''
   socialImage: /images/main-hero.jpg
   metaTags: []
-  addTitleSuffix: true
+  addTitleSuffix: false
 ---
