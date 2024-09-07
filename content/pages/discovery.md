@@ -135,7 +135,7 @@ sections:
     subtitle: johnfacitela@gmail.com
 seo:
   metaTitle: 'Careers - '
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: ''
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
