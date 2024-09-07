@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Discovery
 slug: /Discovery
 sections:
   - title:
