@@ -15,7 +15,7 @@
         {
             "label": "Discovery",
             "altText": "",
-            "url": "/Discovery",
+            "url": "/Discover",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -31,7 +31,7 @@
                     "type": "Link",
                     "label": "Mission",
                     "altText": "",
-                    "url": "/Commitment",
+                    "url": "/mission",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
