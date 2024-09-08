@@ -15,7 +15,7 @@
         {
             "label": "Discovery",
             "altText": "",
-            "url": "/Discovery",
+            "url": "/Discover",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
