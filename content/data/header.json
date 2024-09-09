@@ -13,31 +13,21 @@
     },
     "primaryLinks": [
         {
-            "label": "Discovery",
-            "altText": "",
-            "url": "/Discover",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
             "type": "Link",
-            "showIcon": true
+            "label": "Mission",
+            "altText": "",
+            "url": "/mission",
+            "showIcon": true,
+            "icon": "chevronBigRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         },
         {
             "type": "SubNav",
-            "label": "More",
+            "label": "Configure",
             "altText": "",
             "links": [
-                {
-                    "type": "Link",
-                    "label": "Mission",
-                    "altText": "",
-                    "url": "/mission",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
                 {
                     "type": "Link",
                     "label": "Configure",
@@ -51,11 +41,22 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "type": "Button",
+            "label": "Discovery",
+            "altText": "",
+            "url": "/Discover",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-    "title": "Home"
+    "title": ""
 }
