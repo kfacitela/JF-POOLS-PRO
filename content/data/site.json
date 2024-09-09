@@ -1,8 +1,9 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/Blue Black Minimal Simple Corporate Animated Logo (2).jpg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "Page",
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "enableAnnotations": false
 }
