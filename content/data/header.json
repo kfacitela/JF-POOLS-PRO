@@ -25,7 +25,7 @@
         },
         {
             "type": "SubNav",
-            "label": "More",
+            "label": "Configure",
             "altText": "",
             "links": [
                 {
