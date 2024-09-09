@@ -16,7 +16,7 @@
             "type": "Link",
             "label": "mission",
             "altText": "",
-            "url": "/discover",
+            "url": "/mission",
             "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
