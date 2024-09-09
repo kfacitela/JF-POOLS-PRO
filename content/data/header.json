@@ -30,17 +30,6 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "",
-                    "altText": "",
-                    "url": "",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
                     "label": "Configure",
                     "altText": "",
                     "url": "/Configure",
