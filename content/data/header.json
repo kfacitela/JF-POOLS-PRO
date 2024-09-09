@@ -54,7 +54,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Discovery",
             "altText": "",
             "url": "/Discover",
             "showIcon": false,
