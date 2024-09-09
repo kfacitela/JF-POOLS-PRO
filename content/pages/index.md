@@ -146,44 +146,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-      - type: FeaturedItem
-        title: why us
-        tagline: ''
-        subtitle: ''
-        text: >+
-          ###### **What Sets Us Apart**
-
-          Every company can build a pool, but not every company can build a JF
-          Pools experience. We believe in building more than just pools; we
-          believe in building relationships.At JF Pools, we take the time to get
-          to know our clients on a personal level, understanding their needs,
-          preferences, and what they hope to achieve with their pool project.
-          Whether you’re looking for a simple, elegant design or a high-end
-          luxury retreat, we provide personalized service tailored to your
-          specific vision.Each pool we create is unique, just like our clients.
-          We are proud to say that many of our customers return to us again and
-          again, entrusting us with their pool maintenance, renovations, and
-          more. It’s because we care – about quality, about design, and about
-          creating a space where families can make lasting memories.
-
-        image:
-          type: ImageBlock
-          url: /images/Blue Black Minimal Simple Corporate Animated Logo (2).jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
     actions:
       - label: Start
         altText: ''
