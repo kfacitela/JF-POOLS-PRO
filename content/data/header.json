@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "mission",
+            "label": "Mission",
             "altText": "",
             "url": "/mission",
             "showIcon": true,
