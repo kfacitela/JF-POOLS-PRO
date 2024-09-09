@@ -147,7 +147,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: 'why us '
+        title: why us
         tagline: This is the tagline
         subtitle: ''
         text: >+
