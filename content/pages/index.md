@@ -148,7 +148,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: why us
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >+
           ###### **What Sets Us Apart**
