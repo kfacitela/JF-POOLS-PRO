@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "type": "Link",
-            "label": "",
+            "label": "mission",
             "altText": "",
             "url": "/discover",
             "showIcon": true,
