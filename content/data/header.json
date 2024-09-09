@@ -13,17 +13,6 @@
     },
     "primaryLinks": [
         {
-            "type": "Link",
-            "label": "Mission",
-            "altText": "",
-            "url": "/mission",
-            "showIcon": true,
-            "icon": "chevronBigRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
             "type": "SubNav",
             "label": "Configure",
             "altText": "",
@@ -41,17 +30,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "type": "Button",
-            "label": "Discovery",
-            "altText": "",
-            "url": "/Discover",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],

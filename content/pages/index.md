@@ -19,8 +19,8 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
-        elementId: ''
+        style: secondary
+        elementId: discover
         type: Button
     media:
       url: /images/Blue Black Minimal Simple Corporate Animated Logo.jpg
