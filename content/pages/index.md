@@ -13,7 +13,7 @@ sections:
       Trust JF Pools for Excellence in Pool Creation and Care
 
     actions:
-      - label: ''
+      - label: Learn more
         altText: Learn more
         url: /Discover
         showIcon: false
