@@ -24,16 +24,6 @@
             "elementId": ""
         },
         {
-            "label": "",
-            "altText": "",
-            "url": "",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": true
-        },
-        {
             "type": "SubNav",
             "label": "More",
             "altText": "",
