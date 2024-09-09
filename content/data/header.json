@@ -41,17 +41,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "type": "Button",
-            "label": "Discovery",
-            "altText": "",
-            "url": "/Discover",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
