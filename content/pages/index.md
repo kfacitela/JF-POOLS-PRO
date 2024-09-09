@@ -12,16 +12,7 @@ sections:
 
       Trust JF Pools for Excellence in Pool Creation and Care
 
-    actions:
-      - label: Learn more
-        altText: Learn more
-        url: /Discover
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: discover
-        type: Button
+    actions: []
     media:
       url: /images/Blue Black Minimal Simple Corporate Animated Logo.jpg
       altText: Unblock your team boost your time to production preview
