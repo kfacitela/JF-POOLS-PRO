@@ -13,6 +13,17 @@
     },
     "primaryLinks": [
         {
+            "type": "Link",
+            "label": "",
+            "altText": "",
+            "url": "/discover",
+            "showIcon": true,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Discovery",
             "altText": "",
             "url": "/Discover",
