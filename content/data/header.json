@@ -30,7 +30,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Mission\\",
+                    "label": "",
                     "altText": "",
                     "url": "/mission",
                     "showIcon": false,
