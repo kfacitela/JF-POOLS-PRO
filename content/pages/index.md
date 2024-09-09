@@ -168,7 +168,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Blue Black Minimal Simple Corporate Animated Logo (2).jpg
           altText: Placeholder text
           styles:
             self:
