@@ -1,6 +1,6 @@
 ---
-title: Careers
-slug: /Discovery
+title: Discover
+slug: /Discover
 sections:
   - title:
       text: A team that works closely together
@@ -136,5 +136,5 @@ seo:
   type: Seo
   addTitleSuffix: false
 type: PageLayout
-isDraft: true
+isDraft: false
 ---
